@@ -4,7 +4,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
-public class IngredientTypeUnitTest {
+public class IngredientTypeValidationTest {
 
     // Ожидаемые значения для ингредиентов
     private static final String EXPECTED_SAUCE = "SAUCE";
